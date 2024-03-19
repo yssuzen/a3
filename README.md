@@ -1,4 +1,5 @@
 # a3/studentApp
+Video Link: https://drive.google.com/file/d/15N671GI-AV7xArBKz4tPDTIFeeCqlMII/view?usp=sharing
 
 1. Created a new database named `a3` in your PostgreSQL environment using pgAdmin 4.
 
